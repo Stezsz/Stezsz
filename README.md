@@ -17,9 +17,43 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
 </div>
 
 ###
+
+<div align="left">
+  <h3>🎓 Certifications:</h3>
+  <a href="https://certificates.cs50.io/37e5a91c-cdaa-4e36-999d-54dba7689198.pdf?size=letter">
+    <img src="https://img.shields.io/badge/CS50x-00A4EF?style=for-the-badge&logo=harvard&logoColor=white" alt="CS50x" />
+  </a>
+</div>
+
+###
+
+<div align="left">
+  <h3>👨‍💻 About me:</h3>
+  <p>Passionate developer with a strong foundation in computer science through CS50x. Focused on creating efficient and elegant solutions to complex problems.</p>
+</div>
+
+###
+
+<div align="left">
+  <h3>📫 Connect with me:</h3>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
+  </a>
+  <a href="https://www.linkedin.com/in/stephan-lassaponari-99077a279/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  </a>
+</div>
 
 ###
 

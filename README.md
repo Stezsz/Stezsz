@@ -18,7 +18,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img src="https://assets.dio.me/kKbzREwANR_lffkCH7FfYJ0qJno9MgRhqldWpYIqmSE/f:webp/q:80/L2FydGljbGVzL2NvdmVyLzc1Y2U0NGQ3LTNmMTItNDQ5Zi1iYzhjLWZjMTNmMjg3ODFhMi5qcGc" height="30" alt="dio logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
 </div>

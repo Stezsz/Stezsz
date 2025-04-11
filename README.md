@@ -20,7 +20,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />
-  <img src="./src/powerbi.png" height="30" alt="powerbi logo"  />
+  <img src="./src/powerbi-new.png" height="30" alt="powerbi logo" />
 </div>
 
 ###

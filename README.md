@@ -30,6 +30,9 @@
   <a href="https://certificates.cs50.io/37e5a91c-cdaa-4e36-999d-54dba7689198.pdf?size=letter">
     <img src="https://img.shields.io/badge/CS50x-00A4EF?style=for-the-badge&logo=harvard&logoColor=white" alt="CS50x" />
   </a>
+  <a href="https://drive.google.com/file/d/1s-uV8cpdq48H74V7pm5HsRVpzYJc6WUS/view?usp=drive_link">
+    <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  </a>
 </div>
 
 ###
@@ -43,7 +46,7 @@
 
 <div align="left">
   <h3>📫 Connect with me:</h3>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:stephanrlassaponari@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
   </a>
   <a href="https://www.linkedin.com/in/stephan-lassaponari-99077a279/">

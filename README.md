@@ -39,7 +39,12 @@
 
 <div align="left">
   <h3>👨‍💻 About me:</h3>
-  <p>Software Developer</p>
+  <p>
+    Software Developer currently studying at 
+    <a href="https://www.42lisboa.com/pt/" target="_blank" style="color:#F2F2F2; text-decoration:none; font-weight:bold;">
+      42 Lisboa
+    </a>.
+  </p>
 </div>
 
 ###
@@ -52,6 +57,10 @@
   <a href="https://www.linkedin.com/in/stephan-lassaponari-99077a279/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
+  <a href="https://drive.google.com/file/d/1PJ12wyNpt3XnPxnqCKSfWXtY9I/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Intro%20to%20Tech%20(Santander%20%26%20Code%20for%20All)-E4405F?style=for-the-badge&logo=google-classroom&logoColor=white" alt="Intro to Tech" />
+  </a>
+
 </div>
 
 ###

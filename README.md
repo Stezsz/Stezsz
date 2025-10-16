@@ -47,6 +47,8 @@ Software developer who thrives on strong fundamentals and cross-functional colla
 - **42 Lisboa — Core Curriculum:** peer-to-peer learning, intensive low-level projects, networking and algorithmic rigor.
 - [![CS50x](https://img.shields.io/badge/CS50x-00A4EF?style=for-the-badge&logo=harvard&logoColor=white)](https://certificates.cs50.io/37e5a91c-cdaa-4e36-999d-54dba7689198.pdf?size=letter) — Computer science foundations across C, Python, SQL and software engineering.
 - [![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://drive.google.com/file/d/1s-uV8cpdq48H74V7pm5HsRVpzYJc6WUS/view?usp=drive_link) — Data modelling, DAX and interactive dashboard storytelling.
+- [![Software Engineer Intern](https://img.shields.io/badge/Software%20Engineer%20Intern-0A66C2?style=for-the-badge&logo=certificate&logoColor=white)](./Certifications/software_engineer_intern%20certificate.pdf) — Professional certification in software engineering internship.
+- [![SQL Advanced](https://img.shields.io/badge/SQL%20Advanced-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](./Certifications/sql_advanced%20certificate.pdf) — Advanced SQL querying, optimization and database management.
 - [![Santander Code for All](https://img.shields.io/badge/Intro%20to%20Tech-E4405F?style=for-the-badge&logo=riseup&logoColor=white)](https://drive.google.com/file/d/1PJ12wyNpt3XnPxnqCKSfWXtY9I/view?usp=sharing) — Practical introduction to web development and collaborative methodologies.
 
 ### � GitHub insights

@@ -11,7 +11,7 @@
 
 ---
 
-I'm a software developer with a passion for building robust systems and solving complex problems. Currently advancing through the **42 Lisboa** core curriculum, where I've completed projects up to **CPP Module 07**, **webserv**, and **Inception**—strengthening my expertise in low-level programming, networking, and containerization.
+I'm a software developer with a passion for building robust systems and solving complex problems. Currently advancing through the **42 Lisboa** core curriculum, where I've completed projects up to **Minishell**, **webserv**, and **Inception**—strengthening my expertise in low-level programming, networking, and containerization.
 
 <br>
 
@@ -20,6 +20,7 @@ I'm a software developer with a passion for building robust systems and solving 
 ```
 🔹 Systems Programming    → C/C++, memory management, POSIX APIs
 🔹 Back-End Development   → Java (Spring Boot), Python, REST APIs
+🔹 Front-End Development   → Angular
 🔹 DevOps & Cloud         → Docker, Linux, CI/CD, AWS
 🔹 Data & Analytics       → SQL, Power BI, data-driven insights
 ```

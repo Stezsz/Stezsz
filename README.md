@@ -77,7 +77,7 @@ Dining philosophers problem solved with multithreading, demonstrating synchroniz
 </td>
 <td width="50%">
 
-### [📦 CPP Modules 00–07](https://github.com/Stezsz/CPP05-09)
+### [📦 CPP Modules 00–09](https://github.com/Stezsz/CPP05-09)
 **C++ · OOP · STL · Templates**
 
 Comprehensive C++ journey covering OOP principles, inheritance, polymorphism, exceptions, templates, and the Standard Template Library.
